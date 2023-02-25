@@ -62,8 +62,8 @@ else {
                             <tr>
                                 <th scope="row">22</th>
                                 <td>100</td>
-                                <td>nghia123.vn12@gmail.com</td>
-                                <td>20/11/2022</td>
+                                <td>thuanpm2001@gmail.com</td>
+                                <td>20/02/2022</td>
                                 <td>2000</td>
                                 <td>
                                     <button type="submit" class="btn btn-secondary" name="delete" value="Delete">
