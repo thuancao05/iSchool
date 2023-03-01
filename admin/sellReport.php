@@ -4,7 +4,7 @@ if(!isset($_SESSION)){
 }
 define('TITLE', 'Sell Report');
 define('PAGE', 'sellreport');
-include('./adminInclude/header.php'); 
+include('./admininclude/header.php'); 
 include('../dbConnection.php');
 
  if(isset($_SESSION['is_admin_login'])){
