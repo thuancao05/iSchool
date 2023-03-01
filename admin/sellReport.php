@@ -77,5 +77,5 @@ include('../dbConnection.php');
   </div>  <!-- div Row close from header -->
  </div>  <!-- div Conatiner-fluid close from header -->
 <?php
-include('./adminInclude/footer.php'); 
+include('./admininclude/footer.php'); 
 ?>
