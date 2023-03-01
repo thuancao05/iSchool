@@ -2,7 +2,7 @@
   define('TITLE', 'Payment Status');
   define('PAGE', 'paymentstatus');
   include('../dbConnection.php');
-  include('./adminInclude/header.php'); 
+  include('./admininclude/header.php'); 
   $ORDER_ID = "";
 	
 	if (isset($_POST["ORDER_ID"]) && $_POST["ORDER_ID"] != "") {
@@ -122,5 +122,5 @@
     </div>  <!-- div Row close from header -->
 </div>  <!-- div Conatiner-fluid close from header -->
 <?php
-include('./adminInclude/footer.php'); 
+include('./admininclude/footer.php'); 
 ?> 
