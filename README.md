@@ -1,4 +1,4 @@
-# iSchool
+# iSchool - Trang web ban khoa hoc online
 https://thuancao.000webhostapp.com/index.php
 
 Account
